@@ -28,7 +28,8 @@ git clone https://github.com/KaSampaio/qr-code-component.git
 
 ## Visual
 
-Inserir uma imagem ou GIF do projeto em funcionamento aqui.
+![Desktop](./src/image/desktop-design.jpg)
+![Mobile](./src/image/mobile-design.jpg)
 
 ## Autor
 
