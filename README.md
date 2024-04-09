@@ -28,7 +28,10 @@ git clone https://github.com/KaSampaio/qr-code-component.git
 
 ## Visual
 
+#### Design para Desktop
 ![Desktop](./src/image/desktop-design.jpg)
+
+#### Design para Mobile
 ![Mobile](./src/image/mobile-design.jpg)
 
 ## Autor
